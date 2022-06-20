@@ -1,0 +1,23 @@
+*{
+    padding:0px;
+    margin:0px;
+    box-sizing: border-box;
+    font-family:sans-serif;
+}
+body{
+    background: url('img/program8.jfif');
+    background-size:cover ;
+    height: 100%;
+    width: 100%;
+    background-repeat: no-repeat;
+}
+.contact_form{
+    padding-top: 3rem;
+}
+.text1{
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    padding-top: 2rem;
+    width: 100%;
+}
